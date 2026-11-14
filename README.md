@@ -36,18 +36,18 @@ Python, Linux, Zsh, Neovim, Kitty, VS Code y Git. También trabajo con FamiTrack
 
 ## Mis proyectos
 
-- [ash-crypt-roguelike](https://github.com/WLDluv-stack/ash-crypt-roguelike) — Roguelike ASCII en Python
+- [ash-crypt-roguelike](https://github.com/WLDluv-stack/ash-crypt-roguelike) — Roguelike ASCII en Python.
 - [cajeta-dotfiles](https://github.com/WLDluv-stack/cajeta-dotfiles) — Mis dotfiles.
 
 
 ## Estadísticas de GitHub
 
-![Perfil de WLDluv-stack](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WLDluv-stack&theme=dark)
+![Perfil de WLDluv-stack](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WLDluv-stack)
 
-![Estadísticas de WLDluv-stack](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WLDluv-stack&theme=dark)
+![Estadísticas de WLDluv-stack](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WLDluv-stack)
 
-![Repositorios por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WLDluv-stack&theme=dark)
+![Repositorios por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WLDluv-stack)
 
-![Lenguaje con más commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WLDluv-stack&theme=dark)
+![Lenguaje con más commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WLDluv-stack)
 
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=WLDluv-stack)

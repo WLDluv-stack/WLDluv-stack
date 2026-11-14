@@ -34,6 +34,6 @@ Python, Linux, Zsh, Neovim, Kitty, VS Code y Git. También trabajo con FamiTrack
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub de WLDluv-stack](https://github-readme-stats.vercel.app/api?username=WLDluv-stack&show_icons=true)
+![Estadísticas de GitHub de WLDluv-stack](https://github-readme-stats-sigma-five.vercel.app/api?username=WLDluv-stack&show_icons=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=WLDluv-stack&layout=compact)
+![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WLDluv-stack&layout=compact)

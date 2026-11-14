@@ -1,4 +1,4 @@
-# ¡WLDLuv
+# ¡WLDLuv!
 
 - 🐧 Usuario de Linux y programador de Python
 - 🎵 Productor de música electrónica y chiptune con FamiTracker, LMMS y REAPER

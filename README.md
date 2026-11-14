@@ -1,10 +1,4 @@
-# ¡Hola! Soy Diego Adrián Martínez Aguirre 👋
-
-Estudiante de TICs en la Universidad del SABES, en Celaya, Guanajuato, México. Me encuentras en GitHub como [@WLDluv-stack](https://github.com/WLDluv-stack).
-
-## Sobre mí
-
-Soy estudiante de Ingeniería en TICs en la Universidad del SABES, en Celaya, Guanajuato, México.
+# ¡WLDLuv
 
 - 🐧 Usuario de Linux y programador de Python
 - 🎵 Productor de música electrónica y chiptune con FamiTracker, LMMS y REAPER
@@ -20,9 +14,6 @@ Python, Linux, Zsh, Neovim, Kitty, VS Code y Git. También trabajo con FamiTrack
 - 🔭 Actualmente trabajo en ash-crypt-roguelike y tunebox
 - 🌱 Actualmente aprendo más Python y a pulir mis dotfiles
 - 👯 Busco colaborar en proyectos de Python, terminal y música chiptune
-- 💬 Pregúntame por Python, Linux, chiptune y mods de Left 4 Dead 2
-- 📫 Encuéntrame en GitHub: [@WLDluv-stack](https://github.com/WLDluv-stack)
-- ⚡ Dato curioso: hago música chiptune y mods para Left 4 Dead 2
 
 ## Tech Stack
 
@@ -39,8 +30,6 @@ Python, Linux, Zsh, Neovim, Kitty, VS Code y Git. También trabajo con FamiTrack
 
 - [ash-crypt-roguelike](https://github.com/WLDluv-stack/ash-crypt-roguelike) — Roguelike ASCII en Python.
 - [cajeta-dotfiles](https://github.com/WLDluv-stack/cajeta-dotfiles) — Mis dotfiles.
-- [tunebox](https://github.com/WLDluv-stack/tunebox) — Reproductor de música en la terminal, en Python.
-- steam-tax-mx — Extensión de Chrome que muestra los impuestos mexicanos en los precios de Steam.
 
 
 ## Estadísticas de GitHub

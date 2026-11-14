@@ -1,4 +1,4 @@
-<h1><img src="avatar.jpg" width="90" align="left" alt="WLDluv"> ¡WLDLuv!</h1>
+<h1><img src="avatar.png" width="90" align="left" alt="WLDluv"> ¡WLDLuv!</h1>
 
 ![Visitas a mi perfil](https://komarev.com/ghpvc/?username=WLDluv-stack)
 

@@ -1,16 +1,50 @@
-## Hi there 👋
+# ¡Hola! Soy Diego Adrián Martínez Aguirre 👋
 
-<!--
-**WLDluv-stack/WLDluv-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de TICs en la Universidad del SABES, en Celaya, Guanajuato, México. Me encuentras en GitHub como [@WLDluv-stack](https://github.com/WLDluv-stack).
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Ingeniería en TICs en la Universidad del SABES, en Celaya, Guanajuato, México.
+
+- 🐧 Usuario de Linux y programador de Python
+- 🎵 Productor de música electrónica y chiptune con FamiTracker, LMMS y REAPER
+- 🎮 Modder de Left 4 Dead 2
+- 💻 Me gusta la terminal, los dotfiles y los proyectos pequeños y útiles
+
+## Habilidades
+
+Python, Linux, Zsh, Neovim, Kitty, VS Code y Git. También trabajo con FamiTracker, LMMS y REAPER.
+
+## Más sobre mí
+
+- 🔭 Actualmente trabajo en ash-crypt-roguelike y tunebox
+- 🌱 Actualmente aprendo más Python y a pulir mis dotfiles
+- 👯 Busco colaborar en proyectos de Python, terminal y música chiptune
+- 💬 Pregúntame por Python, Linux, chiptune y mods de Left 4 Dead 2
+- 📫 Encuéntrame en GitHub: [@WLDluv-stack](https://github.com/WLDluv-stack)
+- ⚡ Dato curioso: hago música chiptune y mods para Left 4 Dead 2
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+![Zsh](https://img.shields.io/badge/Zsh-1A2C34?logo=zsh)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim)
+![Kitty](https://img.shields.io/badge/Kitty-000000?logo=kitty)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
+
+## Mis proyectos
+
+- [ash-crypt-roguelike](https://github.com/WLDluv-stack/ash-crypt-roguelike) — Roguelike ASCII en Python.
+- [cajeta-dotfiles](https://github.com/WLDluv-stack/cajeta-dotfiles) — Mis dotfiles.
+- [tunebox](https://github.com/WLDluv-stack/tunebox) — Reproductor de música en la terminal, en Python.
+- steam-tax-mx — Extensión de Chrome que muestra los impuestos mexicanos en los precios de Steam.
+
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub de WLDluv-stack](https://github-readme-stats.vercel.app/api?username=WLDluv-stack&show_icons=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=WLDluv-stack&layout=compact)

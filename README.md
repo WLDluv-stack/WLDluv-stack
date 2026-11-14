@@ -1,5 +1,7 @@
 # ¡WLDLuv!
 
+![Visitas a mi perfil](https://komarev.com/ghpvc/?username=WLDluv-stack)
+
 - 🐧 Usuario de Linux y programador de Python
 - 🎵 Productor de música electrónica y chiptune con FamiTracker, LMMS y REAPER
 - 🎮 Modder de Left 4 Dead 2
@@ -24,6 +26,12 @@ Python, Linux, Zsh, Neovim, Kitty, VS Code y Git. También trabajo con FamiTrack
 ![Kitty](https://img.shields.io/badge/Kitty-000000?logo=kitty)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?logo=gnometerminal&logoColor=white)
+
+[![Mis herramientas](https://skillicons.dev/icons?i=python,linux,git,neovim,vscode,bash,github,markdown)](https://skillicons.dev)
 
 
 ## Mis proyectos
@@ -37,3 +45,5 @@ Python, Linux, Zsh, Neovim, Kitty, VS Code y Git. También trabajo con FamiTrack
 ![Estadísticas de GitHub de WLDluv-stack](https://github-readme-stats-sigma-five.vercel.app/api?username=WLDluv-stack&show_icons=true)
 
 ![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WLDluv-stack&layout=compact)
+
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=WLDluv-stack)
